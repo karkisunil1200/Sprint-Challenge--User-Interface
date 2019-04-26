@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: gray;
+    padding: 30px;
+    font-size: 25px;
+}
+
+
+.container {
+    display: flex;
+
+    margin-top: 90px;
+    border-radius: 20px;
+
+    ;
+
+}
+
+.container .left-side {
+    width: 30%;
+    background: rgba(245, 209, 3, 0.829);
+    flex: 1;
+
+}
+
+.icons {
+    margin: 200px;
+    left: 500px;
+}
+
+
+.icons {
+    text-align: center;
+
+
+}
+
+.message {
+    text-align: center;
+}
+
+
+
+.fas {
+    color: white;
+
+}
+
+.left-side {}
+
+.container .right-side {
+    background: white;
+    width: 60%;
+    padding: 40px;
+    flex: 1;
+}
+
+.right-side form {
+    display: flex;
+    flex-direction: column;
+}
+
+form h2 {
+    padding: 20px 0;
+    color: rgba(44, 43, 43, 0.883);
+}
+
+.label {
+    padding: 20px;
+    border-radius: 10px;
+    ;
+    color: gray;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: orangered;
+    padding: 10px;
+    font-size: 19px;
+    color: white;
+    padding: 10px;
+    margin: 20px 0;
+    width: 190px;
+    border-radius: 10px;
+
+}
