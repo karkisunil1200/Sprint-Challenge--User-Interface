@@ -303,3 +303,9 @@ footer nav a {
 .middle-content .boxes .box10 {
     background: dodgerblue;
 }
+
+a {
+    text-decoration: none;
+    color: black;
+
+}
