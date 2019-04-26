@@ -263,3 +263,46 @@ footer nav a {
 .pic {
     padding-bottom: 30px;
 }
+
+.about {
+    padding: 0 20px;
+}
+
+.line {
+    width: 100%;
+    border: 1px dotted black;
+    margin: 30px 0;
+}
+
+/* Start of Inner boxes */
+.inner {
+    display: flex;
+    text-align: justify;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
+}
+
+.boxes {
+    width: 45%;
+
+}
+
+.button {
+    width: 130px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.boxes h2 {
+    padding-top: 10px;
+}
+
+.boxes .line {
+    margin-bottom: 40px;
+}
+
+/* End of Inner boxes */
