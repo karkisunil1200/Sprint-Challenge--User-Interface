@@ -239,12 +239,13 @@ footer nav a {
 
 /* Code Starts Here */
 
+/* Menu */
 .menu {
     display: flex;
-    padding: 30px 0;
+    padding: 20px 0;
     justify-content: space-between;
     align-items: baseline;
-    border: 1px solid red;
+
 }
 
 .nav ul {
@@ -254,5 +255,11 @@ footer nav a {
 }
 
 .nav ul li {
-    padding: 40px;
+    padding: 20px 40px;
+}
+
+/* End of Menu */
+
+.pic {
+    padding-bottom: 30px;
 }
