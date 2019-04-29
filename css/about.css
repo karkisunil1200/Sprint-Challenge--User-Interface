@@ -264,44 +264,54 @@ footer nav a {
     padding-bottom: 30px;
 }
 
-.middle-content .boxes .box1 {
-    background: teal;
+.about {
+    padding: 0 20px;
 }
 
-.middle-content .boxes .box2 {
-    background: gold;
+.line {
+    width: 100%;
+    border: 1px dotted black;
+    margin: 30px 0;
 }
 
-.middle-content .boxes .box3 {
-    background: cadetblue;
+/* Start of Inner boxes */
+.inner {
+    display: flex;
+    text-align: justify;
+    flex-wrap: wrap;
+    justify-content: space-around;
+
 }
 
-.middle-content .boxes .box4 {
-    background: coral;
+.boxes {
+    width: 45%;
+
 }
 
-.middle-content .boxes .box5 {
-    background: crimson;
+.button {
+    width: 130px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 20px 0;
+    text-align: center;
 }
 
-.middle-content .boxes .box6 {
-    background: forestgreen;
+.boxes h2 {
+    padding-top: 10px;
 }
 
-.middle-content .boxes .box7 {
-    background: darkorchid;
+.boxes .line {
+    margin-bottom: 40px;
 }
 
-.middle-content .boxes .box8 {
-    background: hotpink;
+/* End of Inner boxes */
+.about-page .work {
+    padding: 0 20px;
 }
 
-.middle-content .boxes .box9 {
-    background: indigo;
-}
-
-.middle-content .boxes .box10 {
-    background: dodgerblue;
+footer {
+    margin-top: 30px;
 }
 
 a {
